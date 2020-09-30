@@ -1,1 +1,1 @@
-# defect-detect-based-on-template-matching
+# defect-detection-based-on-template-matching
